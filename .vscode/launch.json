@@ -2,14 +2,29 @@
   "version": "0.2.0",
   "configurations": [
     {
+<<<<<<< HEAD
+=======
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "FUTURE_TrackCode_TaskNumber_ab9215a3"
+    },
+    {
+>>>>>>> 8c787ac92756befa7fe165911036c9b3b77fe992
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "d:/FUTURE_TrackCode_TaskNumber",
       "program": "d:/FUTURE_TrackCode_TaskNumber/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/nitin/OneDrive/Desktop/FUTURE_TrackCode_TaskNumber",
+      "program": "c:/Users/nitin/OneDrive/Desktop/FUTURE_TrackCode_TaskNumber/build/Debug/outDebug",
+>>>>>>> 8c787ac92756befa7fe165911036c9b3b77fe992
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
